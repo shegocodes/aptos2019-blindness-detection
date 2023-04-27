@@ -3,6 +3,5 @@ Folder named 'train_images_resized_500' has been modified due to file size limit
 Original images can be downloaded at this link below:
 https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
-About the notebooks:
-* aptos2019-blindness-detection-500.ipynb (output : no)
-* aptos2019-blindness-detection-500-results.ipynb (output : yes)
+Access Google Colab:
+https://colab.research.google.com/drive/1tesS60cR6VI3MgPBGzyDZNyjKfJE-3Jy#scrollTo=kIReySXn5_Da
