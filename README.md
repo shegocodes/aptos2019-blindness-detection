@@ -5,3 +5,6 @@ https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
 Access Google Colab (training is done on a GPU):
 https://colab.research.google.com/drive/1tesS60cR6VI3MgPBGzyDZNyjKfJE-3Jy#scrollTo=kIReySXn5_Da
+
+How to enable GPU in Google Colab:
+Edit > Notebook settings > Hardware accelerator > Select GPU > Save
