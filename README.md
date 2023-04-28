@@ -4,8 +4,8 @@ Original images can be downloaded at this link below:
 https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 
 About the notebooks:
-* aptos2019-blindness-detection-500.ipynb (outputs:no)
-* aptos2019-blindness-detection-500-results.ipynb (outputs:yes)
+* aptos2019-blindness-detection-500.ipynb (outputs : no)
+* aptos2019-blindness-detection-500-results.ipynb (outputs : yes)
 
 Access Google Colab (where training is done on a GPU):
 https://colab.research.google.com/drive/1tesS60cR6VI3MgPBGzyDZNyjKfJE-3Jy#scrollTo=kIReySXn5_Da
